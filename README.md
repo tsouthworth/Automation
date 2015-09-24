@@ -1,2 +1,2 @@
 # Automation
-Selenium Suite
+Selenium Suite for Boston Globe
